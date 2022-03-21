@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">STQuotes</string>
+    <string name="view_quote_item_quote">\"You’re now faced with the same choice, go back into hiding and hope they don’t find you, or fight, and face them again.\"</string>
+    <string name="view_quote_item_author">- Kali Prasad</string>
+    <string name="menu_refresh">Refresh</string>
+</resources>
